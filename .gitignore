@@ -1,0 +1,5 @@
+website/__pycache__
+website/database.db
+instance/
+.venv/
+.idea/
